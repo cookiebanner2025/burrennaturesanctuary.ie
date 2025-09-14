@@ -84,7 +84,7 @@ const config = {
     allowedDomains: [],
     
     // Privacy policy URL (configurable)
-    privacyPolicyUrl: 'https://yourdomain.com/privacy-policy', // Add your full privacy policy URL here
+    privacyPolicyUrl: 'https://burrennaturesanctuary.ie/cookie-policy-eu/', // Add your full privacy policy URL here
 
 
 
