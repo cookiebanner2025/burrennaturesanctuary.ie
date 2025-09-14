@@ -267,9 +267,9 @@ geoConfig: {
     transition: 'all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1) !important',
         
        accept: {
-    background: '#1177d0 !important',
+    background: '#556b4d !important',
     color: '#ffffff !important',
-    border: '1px solid #1177d0 !important',
+    border: '1px solid #556b4d !important',
     hover: {
         background: '#1177d0 !important',
         color: '#ffffff !important',
